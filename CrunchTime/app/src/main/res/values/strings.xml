@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Crunch Time</string>
+    <string name="action_settings">Settings</string>
+    <string-array name= "units">
+        <item>Calories</item>
+        <item>Pushups(Reps)</item>
+        <item>Situps(Reps)</item>
+
+    </string-array>
+</resources>
