@@ -3,8 +3,18 @@
     <string name="action_settings">Settings</string>
     <string-array name= "units">
         <item>Calories</item>
-        <item>Pushups(Reps)</item>
-        <item>Situps(Reps)</item>
+        <item>Pushups (Reps)</item>
+        <item>Situps (Reps)</item>
+        <item>Squats (Reps)</item>
+        <item>Leg-lift (Mins)</item>
+        <item>Plank (Mins)</item>
+        <item>Jumping Jacks (Mins)</item>
+        <item>Pullup (Reps)</item>
+        <item>Cycling (Mins)</item>
+        <item>Walking (Mins)</item>
+        <item>Jogging (Mins)</item>
+        <item>Swimming (Mins)</item>
+        <item>Stair-climbing (Mins)</item>
 
     </string-array>
 </resources>
